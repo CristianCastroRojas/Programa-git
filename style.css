@@ -320,7 +320,7 @@ header img{
 #contact-section form div{
     display: flex;
     flex-direction: column;
-    margin: 1rem auto;
+    margin: 3px auto;
 }
 
 #contact-section form div:last-child {
@@ -329,7 +329,7 @@ header img{
 
 #contact-section form label {
     margin-bottom: 0.5rem;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 #contact-section form input,
@@ -340,7 +340,7 @@ header img{
 }
 
 #contact-section form input{
-    height: 50px;
+    height: 40px;
 }
 
 #contact-section form input:focus,
@@ -351,6 +351,14 @@ header img{
 #contact-section form button{
     border: none;
 }
+
+.whatsapp-contact{
+    height: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
 
 /*pie de pagina*/
 
